@@ -28,7 +28,25 @@ section {
     text-decoration: none;
     background-image: linear-gradient(orange, red);
     padding: 10px 20px;
-    border-radius: 10px solid;
+    border-radius: 5px;
     color: antiquewhite;
     font-weight: 700;
+}
+
+.secend-bennar {
+    display: flex;
+}
+
+.about {
+    background-image: url(images/shapes/7.png);
+}
+
+footer h1 {
+    text-align: center;
+}
+
+footer p {
+    text-align: center;
+    padding: 10%;
+
 }
